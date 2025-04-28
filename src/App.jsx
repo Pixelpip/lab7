@@ -35,8 +35,8 @@ const App = () => {
 return (
 <div className="app-container">
 <ProfileCard
-name="Hello"
-bio="Bio text here"
+name="Dhoni"
+bio="Dhoni the cricketer"
 initialBgColor="linear-gradient(135deg, #ADD8E6, #E6E6FA)"
 />
 </div>
